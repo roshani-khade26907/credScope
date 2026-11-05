@@ -1,0 +1,6 @@
+{
+  "name": "CrediScope AI — Intelligent Credit Score Prediction & Loan Eligibility Platform",
+  "description": "Evaluate creditworthiness, predict estimated credit scores (300-850), evaluate loan eligibility across retail loan categories, explore SHAP explainability insights, and simulate financial scenarios with machine learning.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
